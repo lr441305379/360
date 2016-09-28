@@ -1,0 +1,163 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.payoff-z {
+  margin: 0 auto;
+  width: 1240px;
+  height: 856px;
+  border-left: 1px solid #f2f2f2;
+  border-right: 1px solid #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
+  box-shadow: 0 0 40px rgba(216, 216, 216, 0.5);
+}
+.payoff-ok {
+  background: #fff;
+  width: 1240px;
+  height: 100px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.payoff-ok i {
+  display: block;
+  font-size: 50px;
+  color: #65c966;
+  text-align: center;
+  line-height: 75px;
+}
+.payoff-ok span {
+  color: #65c966;
+  text-align: center;
+  line-height: 50px;
+  display: block;
+}
+.payoff {
+  width: 1240px;
+  height: 756px;
+  margin: 0 auto;
+  background: #FFF;
+}
+.payoff .payoff-btn {
+  width: 120px;
+  height: 50px;
+  background: #65c966;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  font-family: 微软雅黑;
+}
+.payoff .payoff-title {
+  width: 100%;
+  height: 112px;
+  background: #e2f8d1;
+  border-bottom: 3px solid #b6db96;
+  margin-bottom: 35px;
+}
+.payoff .payoff-title .payoff-left {
+  width: 70px;
+  height: 112px;
+  float: left;
+}
+.payoff .payoff-title .payoff-left i {
+  display: block;
+  font-size: 29px;
+  float: right;
+  line-height: 112px;
+  color: #64ca66;
+  margin-top: -12px;
+}
+.payoff .payoff-title .payoff-right {
+  width: 260px;
+  float: right;
+  height: 112px;
+}
+.payoff .payoff-title .payoff-right p {
+  text-align: center;
+  font-family: "微软雅黑";
+  line-height: 45px;
+}
+.payoff .payoff-title .payoff-right h5 {
+  text-align: center;
+  line-height: 35px;
+  color: #ff8108;
+  font-size: 35px;
+  font-family: "微软雅黑";
+}
+.payoff .payoff-title .payoff-mid {
+  width: 600px;
+  height: 112px;
+  float: left;
+  margin-left: 30px;
+}
+.payoff .payoff-title .payoff-mid .payoff-mid-order {
+  height: 52px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.payoff .payoff-title .payoff-mid .payoff-mid-order P {
+  color: #536f47;
+  line-height: 85px;
+  font-family: "微软雅黑";
+}
+.payoff .payoff-title .payoff-mid .payoff-mid-order P span {
+  font-size: 12px;
+  color: #808a72;
+  margin-left: 8px;
+}
+.payoff .payoff-title .payoff-mid .payoff-mid-bot {
+  width: 100%;
+  height: 30px;
+  font-family: "微软雅黑";
+  color: #313330;
+  font-size: 14px;
+}
+.payoff .payoff-title .payoff-mid .payoff-mid-bot span {
+  padding-right: 30px;
+}
+.payoff .payoff-style {
+  width: 100%;
+  height: 400px;
+}
+.payoff .payoff-style ul .payoff-no {
+  border-right: 0px;
+}
+.payoff .payoff-style ul li {
+  float: left;
+  width: 480px;
+  height: 350px;
+  border-right: 1px solid #f7f7f7;
+  padding: 0 64px;
+}
+.payoff .payoff-style ul li .wx {
+  color: #65c966;
+}
+.payoff .payoff-style ul li span {
+  text-align: center;
+  font-family: "微软雅黑";
+  color: #00a9f2;
+  display: block;
+  margin-top: 50px;
+  padding-bottom: 35px;
+}
+.payoff .payoff-style ul li img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+.payoff .payoff-style ul li i {
+  display: block;
+  font-size: 35px;
+  color: #00a9f2;
+  text-align: center;
+}
+/*# sourceMappingURL=order.css.map */

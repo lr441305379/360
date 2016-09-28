@@ -1,0 +1,1192 @@
+[ 2016-08-18T08:54:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T08:54:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T08:57:10+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:10:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:25:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:25:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:25:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:25:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:26:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:26:47+08:00 ]EXCEPTION: Method Admin\Controller\GoodsController::Darling() does not exist
+[ 2016-08-18T10:27:53+08:00 ]EXCEPTION: Method Admin\Controller\GoodsController::Darling() does not exist
+[ 2016-08-18T10:27:59+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:28:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T10:28:03+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (11).
+[ 2016-08-18T10:28:03+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (12).
+[ 2016-08-18T10:28:03+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T10:28:03+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T10:28:03+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T10:28:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (60).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:29:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (59).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:17+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (59).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T10:31:23+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (59).
+[ 2016-08-18T10:31:27+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (59).
+[ 2016-08-18T10:34:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (61).
+[ 2016-08-18T10:35:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (61).
+[ 2016-08-18T10:38:53+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (62).
+[ 2016-08-18T10:39:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:39:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:39:58+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:40:06+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T10:40:27+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:40:39+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:43:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:45:03+08:00 ]EXCEPTION: SELECT  group  FROM shop_darling WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group  FROM shop_darling WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T10:47:06+08:00 ]EXCEPTION: SELECT  group  FROM shop_darling ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group  FROM shop_darling' at line 1
+[ 2016-08-18T10:47:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:47:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:49:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:51:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:54:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T10:56:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (64).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Undefined variable: gppDataD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Undefined variable: gppDataD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Undefined variable: gppDataD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (41).
+[ 2016-08-18T11:04:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (69).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (21).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (22).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (23).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (24).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T11:06:01+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T11:06:01+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (69).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: gropD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (42).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (69).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (43).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dnoD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (44).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: dstockD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (46).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (54).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (55).
+[ 2016-08-18T11:06:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (69).
+[ 2016-08-18T11:07:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (69).
+[ 2016-08-18T11:07:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:08:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:17:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:17:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:18:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:18:22+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:18:28+08:00 ]NOTICE: Undefined variable: groupD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (16).
+[ 2016-08-18T11:18:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:18:30+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:18:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:19:11+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T11:19:17+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T11:20:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T11:20:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T11:23:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:23:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:24:14+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:26:50+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:27:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T11:27:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T11:27:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T11:27:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T11:29:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:30:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:31:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:31:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:31:59+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:33:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:35:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:37:25+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:37:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:37:34+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE shop_goods_gid=35 AND gpprice!=0 ;BindParams:array (
+)42S22;1054;Unknown column 'gpprice' in 'where clause'
+[ 2016-08-18T11:37:45+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE shop_goods_gid=35 AND gpprice!==0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=0' at line 1
+[ 2016-08-18T11:39:25+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE shop_goods_gid=35 AND gpprice!=0.00 ;BindParams:array (
+)42S22;1054;Unknown column 'gpprice' in 'where clause'
+[ 2016-08-18T11:39:42+08:00 ]NOTICE: Undefined variable: groupD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (17).
+[ 2016-08-18T11:39:42+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:40:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T11:40:16+08:00 ]NOTICE: Undefined variable: groupD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (16).
+[ 2016-08-18T11:40:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:40:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:41:10+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE shop_goods_gid=35 AND gpprice!=0.00 ;BindParams:array (
+)42S22;1054;Unknown column 'gpprice' in 'where clause'
+[ 2016-08-18T11:42:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T11:57:16+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp WHERE shop_goods_gid=35 AND shop_type_pp_tid ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_pp_tid' in 'where clause'
+[ 2016-08-18T11:58:44+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp WHERE shop_goods_gid=35 AND shop_type_pp_tid ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_pp_tid' in 'where clause'
+[ 2016-08-18T11:59:17+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp WHERE shop_goods_gid=35 AND shop_type_pp_tid in (6,12) ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_pp_tid' in 'where clause'
+[ 2016-08-18T11:59:44+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp WHERE shop_goods_gid=35 AND shop_type_pp_tid in (6,12) ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_pp_tid' in 'where clause'
+[ 2016-08-18T12:00:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:00:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:03:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:07:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:09:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:09:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:10:14+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:10:14+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:10:14+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:10:14+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (15).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:14:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (16).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (16).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:17:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:19:26+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:19:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:19:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:19:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:20:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (66).
+[ 2016-08-18T12:20:36+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (70).
+[ 2016-08-18T12:20:36+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (71).
+[ 2016-08-18T12:20:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:20:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Undefined index: group D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (20).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:20:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:22:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:22:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:22:42+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:22:42+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:22:42+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (45).
+[ 2016-08-18T12:22:42+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:26:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (67).
+[ 2016-08-18T12:27:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (68).
+[ 2016-08-18T12:28:02+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (68).
+[ 2016-08-18T12:28:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (68).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (35).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (36).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (37).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (38).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T12:30:14+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T12:30:14+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T12:30:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (67).
+[ 2016-08-18T12:32:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (67).
+[ 2016-08-18T12:32:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T12:35:27+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T12:35:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T14:02:10+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T14:02:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (65).
+[ 2016-08-18T14:02:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T14:02:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T14:02:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T14:04:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T14:05:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T14:05:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T14:05:26+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T14:05:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T14:05:30+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (47).
+[ 2016-08-18T14:05:30+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-18T14:06:19+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T15:12:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (37).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (38).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (39).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (40).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T15:12:35+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T15:12:35+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T15:12:45+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:13:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:14:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:14:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:14:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:15:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:15:18+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T15:15:21+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:15:39+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:15:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:15:43+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T15:15:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:28:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:28:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T15:28:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T15:28:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T15:28:56+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T15:29:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T15:29:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-18T15:29:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (67).
+[ 2016-08-18T15:29:22+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:32:42+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:32:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:33:06+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (51).
+[ 2016-08-18T15:33:06+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (52).
+[ 2016-08-18T15:33:06+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T15:33:06+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T15:33:06+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Undefined variable: tnameD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (163).
+[ 2016-08-18T15:33:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (163).
+[ 2016-08-18T15:33:33+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:33:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:33:33+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:33:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:34:45+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:34:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:34:50+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:34:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:34:50+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:34:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:34:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:34:57+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:34:58+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:34:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:34:58+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:34:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:35:02+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:36:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:36:06+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:36:06+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:36:06+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:36:06+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:36:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T15:36:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T15:36:19+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:36:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:36:19+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:36:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:37:27+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:37:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:37:27+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:37:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:42:01+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:42:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:42:01+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:42:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:43:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:44:08+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:08+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:08+08:00 ]NOTICE: Undefined variable: vvD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:44:29+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:29+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:29+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:29+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:29+08:00 ]NOTICE: Undefined variable: vvD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:44:33+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:33+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:33+08:00 ]NOTICE: Undefined variable: vvD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:44:51+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:51+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:57+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:57+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:44:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (47).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (47).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:46:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (48).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (48).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:47:45+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:49:04+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:49:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:49:04+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:49:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:50:41+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:50:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:50:41+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:50:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:08+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:08+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:35+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:35+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:47+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:47+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:57+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:51:57+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:51:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:53:21+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:53:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:53:21+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:53:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:55:15+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (164).
+[ 2016-08-18T15:56:07+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:56:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (133).
+[ 2016-08-18T15:56:07+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T15:56:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (144).
+[ 2016-08-18T16:12:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\d2321ff4dbba56fbf66d46561f7ef14d.php (60).
+[ 2016-08-18T16:12:38+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\d2321ff4dbba56fbf66d46561f7ef14d.php (60).
+[ 2016-08-18T16:13:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (66).
+[ 2016-08-18T16:13:54+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (70).
+[ 2016-08-18T16:13:54+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (71).
+[ 2016-08-18T16:16:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (66).
+[ 2016-08-18T16:16:05+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (70).
+[ 2016-08-18T16:16:05+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (71).
+[ 2016-08-18T16:16:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (66).
+[ 2016-08-18T16:16:13+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (70).
+[ 2016-08-18T16:16:13+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (71).
+[ 2016-08-18T16:16:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:16:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:21:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:21:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:21:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:29:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:29:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:29:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:29:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:29:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:29:57+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:35:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:35:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:38:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:38:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:38:09+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods INNER JOIN shop_goods_pp ON shop_goods.gid = shop_goods_pp.shop_goods_gid  INNER JOIN shop_type_pp ON shop_type_pp.tpid = shop_goods_pp.shop_goods_type_tpid WHERE gid=32 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_goods_pp.shop_goods_type_tpid' in 'on clause'
+[ 2016-08-18T16:38:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:38:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:45:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:45:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:47:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE shop_goods_gid=3 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_goods_gid' in 'where clause'
+[ 2016-08-18T16:47:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:47:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:47:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:47:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (41).
+[ 2016-08-18T16:48:25+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:48:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:49:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:49:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:49:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:50:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:50:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:51:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T16:51:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T16:56:19+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T16:56:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:01:23+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:01:24+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:01:26+08:00 ]NOTICE: Undefined variable: gppD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (52).
+[ 2016-08-18T17:02:10+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:02:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:02:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:02:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:02:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:05:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:07:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:07:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:07:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:10:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (36).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (37).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (38).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (39).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T17:10:48+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T17:10:48+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T17:10:58+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:11:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:11:03+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp WHERE shop_good_gid ;BindParams:array (
+)42S22;1054;Unknown column 'shop_good_gid' in 'where clause'
+[ 2016-08-18T17:11:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:11:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:11:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (37).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (38).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (39).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (40).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T17:11:35+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T17:11:35+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T17:11:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:11:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:11:44+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:11:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:12:06+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:12:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:12:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:12:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:12:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:12:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:12:38+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T17:12:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:12:57+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:12:58+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:12:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:13:02+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:13:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:13:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:13:09+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T17:13:50+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:13:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:13:55+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE shop_type_tid= AND tptype!=0 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tptype!=0' at line 1
+[ 2016-08-18T17:13:57+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:13:59+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:14:24+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:14:38+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:14:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:14:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:14:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:14:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:15:17+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:15:25+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:15:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:17:52+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:17:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:18:28+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:18:28+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:21:47+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (58).
+[ 2016-08-18T17:21:47+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=Array AND tpvalue!=0 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-18T17:22:20+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (58).
+[ 2016-08-18T17:22:20+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=Array AND tpvalue=1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-18T17:23:36+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (58).
+[ 2016-08-18T17:23:36+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=Array AND tpvalue==1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==1' at line 1
+[ 2016-08-18T17:23:38+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (58).
+[ 2016-08-18T17:23:38+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=Array AND tpvalue==1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==1' at line 1
+[ 2016-08-18T17:23:54+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (58).
+[ 2016-08-18T17:23:54+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=Array AND tpvalue=1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-18T17:24:43+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:24:43+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:26:29+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:26:29+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:26:40+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:26:40+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T17:26:49+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid=6,5,12 AND tpvalue=1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5,12 AND tpvalue=1' at line 1
+[ 2016-08-18T17:27:17+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid= (6,5,12) AND tpvalue=1 ;BindParams:array (
+)21000;1241;Operand should contain 1 column(s)
+[ 2016-08-18T17:28:42+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid= (6,5,12) ;BindParams:array (
+)21000;1241;Operand should contain 1 column(s)
+[ 2016-08-18T17:29:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:29:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:30:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:34:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:34:23+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:34:25+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:34:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:34:43+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:34:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:34:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:41:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T17:41:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T17:41:14+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid= (1,2,11) ;BindParams:array (
+)21000;1241;Operand should contain 1 column(s)
+[ 2016-08-18T17:41:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T19:38:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T19:38:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T19:38:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T19:39:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T19:43:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T19:44:17+08:00 ]EXCEPTION: SELECT  tpid  FROM shop_type_pp WHERE tpid= (6,5,12) ;BindParams:array (
+)21000;1241;Operand should contain 1 column(s)
+[ 2016-08-18T19:44:45+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:44:45+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:53:21+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN shop_type_pp ON shop_type_pp.tpid = shop_goods_pp WHERE shop_goods_gid=35 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_goods_pp' in 'on clause'
+[ 2016-08-18T19:54:26+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T19:54:26+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:54:26+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:55:25+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:55:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:55:33+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T19:55:33+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T19:55:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:03:10+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:03:10+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:03:16+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:03:16+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:07:36+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:07:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:09:25+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:09:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:12:59+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:12:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:13:18+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:13:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:14:08+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:14:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:15:15+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:15:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:15:36+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:15:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:7)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:16:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:16:22+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:16:22+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:16:22+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Illegal string offset 'tpvalue'D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (67).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:7)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:17:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:17:23+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:17:23+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:17:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:18:08+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:18:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:19:36+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:19:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:10)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:20:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:10)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:10)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:26+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:43+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:43+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:57+08:00 ]NOTICE: Undefined index: gpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (53).
+[ 2016-08-18T20:21:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:21:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: daataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:10)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:22:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (65).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Error\View\notice.php:10)D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (7).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:23:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:02+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:12+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:12+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:18+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:37+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:24:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:25:10+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:25:10+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:26:25+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:26:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:27:06+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:27:06+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:28:56+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:28:56+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:33:44+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:33:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Undefined index: gpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Undefined index: gpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:34:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Undefined index: gpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Undefined index: gpvalueD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:35:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:35:24+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:35:24+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:02+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:36+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:50+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:36:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:37:54+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:37:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:40:35+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:40:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:44:46+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:44:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:44:59+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:44:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:46:05+08:00 ]NOTICE: Undefined variable: gtD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:46:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (35).
+[ 2016-08-18T20:46:23+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (72).
+[ 2016-08-18T20:46:23+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (73).
+[ 2016-08-18T20:46:23+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T20:46:23+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T20:46:23+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T20:52:09+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T20:52:37+08:00 ]NOTICE: Undefined variable: gppDataD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (34).
+[ 2016-08-18T20:52:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T20:52:58+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:00:48+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\Project\3601\Hdphp\View\HdphpTag.php (154).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:02:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:02+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:03:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:03:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:03:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:03:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:04:02+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:05:41+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (38).
+[ 2016-08-18T21:05:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (38).
+[ 2016-08-18T21:05:41+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (38).
+[ 2016-08-18T21:05:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (38).
+[ 2016-08-18T21:05:59+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (72).
+[ 2016-08-18T21:05:59+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (73).
+[ 2016-08-18T21:05:59+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (74).
+[ 2016-08-18T21:05:59+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-18T21:05:59+08:00 ]NOTICE: Undefined property: Admin\Controller\DarlingController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-18T21:05:59+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Undefined index: tpvalueD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:06:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T21:27:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (66).
+[ 2016-08-18T21:27:33+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (70).
+[ 2016-08-18T21:27:33+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\0d76f5ffa3f8801ff70ffa722b2b72c2.php (71).
+[ 2016-08-18T21:27:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:27:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:42:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:42:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:42:45+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1266).
+[ 2016-08-18T21:42:45+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:42:45+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:42:45+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:42:45+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN  ON    WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON    WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T21:46:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (76).
+[ 2016-08-18T21:46:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\2d563ec543d7dd3eac1177ef46fb2c75.php (66).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Admin\Controller\DarlingController.php (70).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1266).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:46:13+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:46:13+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN  ON    WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON    WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T21:51:32+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1266).
+[ 2016-08-18T21:51:32+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:32+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:32+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:32+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN  ON    WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON    WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T21:51:34+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1266).
+[ 2016-08-18T21:51:34+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:34+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:34+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T21:51:34+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN  ON    WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON    WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T22:08:39+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1266).
+[ 2016-08-18T22:08:39+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T22:08:39+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T22:08:39+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-18T22:08:39+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods_pp INNER JOIN  ON    WHERE shop_goods_gid=35 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON    WHERE shop_goods_gid=35' at line 1
+[ 2016-08-18T22:25:50+08:00 ]NOTICE: Undefined index: fromD:\wamp\www\Project\3601\Hdphp\View\HdphpTag.php (130).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Undefined variable: KKD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:26:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).
+[ 2016-08-18T22:27:34+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fd4530fd805eda7964f7c8a40c5251ad.php (42).

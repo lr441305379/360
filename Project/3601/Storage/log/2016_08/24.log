@@ -1,0 +1,220 @@
+[ 2016-08-24T13:18:13+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:19:03+08:00 ]EXCEPTION: Method Home\Controller\LoginController::index() does not exist
+[ 2016-08-24T13:19:08+08:00 ]EXCEPTION: Method Home\Controller\LoginController::index() does not exist
+[ 2016-08-24T13:19:52+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:20:33+08:00 ]EXCEPTION: Method Home\Controller\LoginController::login() does not exist
+[ 2016-08-24T13:22:50+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:23:31+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:23:31+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:23:37+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:23:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:23:44+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:23:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:23:47+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:23:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:24:44+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (41).
+[ 2016-08-24T13:24:44+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (43).
+[ 2016-08-24T13:24:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:25:34+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:25:34+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:25:35+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:25:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:25:46+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:25:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:26:02+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:26:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (167).
+[ 2016-08-24T13:26:20+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:27:45+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:31:53+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:31:54+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:32:17+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:35:49+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:37:04+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:41:01+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:41:07+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\Project\3601\Hdphp\Kernel\Functions.php:131)D:\wamp\www\Project\3601\Storage\view\compile\afdce09b6879141ead2167fb28c505be.php (7).
+[ 2016-08-24T13:50:50+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:50:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (185).
+[ 2016-08-24T13:50:53+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:50:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (185).
+[ 2016-08-24T13:50:54+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:50:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (185).
+[ 2016-08-24T13:50:55+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:50:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (185).
+[ 2016-08-24T13:50:56+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T13:50:56+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (185).
+[ 2016-08-24T13:58:27+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (45).
+[ 2016-08-24T13:58:27+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (46).
+[ 2016-08-24T13:58:27+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (47).
+[ 2016-08-24T13:58:27+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-24T13:58:27+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-24T13:58:27+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-24T13:58:36+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (45).
+[ 2016-08-24T13:58:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (156).
+[ 2016-08-24T13:58:40+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (45).
+[ 2016-08-24T13:58:40+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (156).
+[ 2016-08-24T13:58:46+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (45).
+[ 2016-08-24T13:58:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (156).
+[ 2016-08-24T13:58:53+08:00 ]NOTICE: Undefined variable: nameD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (45).
+[ 2016-08-24T13:58:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (156).
+[ 2016-08-24T14:05:09+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\d2321ff4dbba56fbf66d46561f7ef14d.php (60).
+[ 2016-08-24T14:05:11+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\d2321ff4dbba56fbf66d46561f7ef14d.php (60).
+[ 2016-08-24T14:09:39+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\LoginController.php (12).
+[ 2016-08-24T14:09:39+08:00 ]NOTICE: Undefined property: Home\Controller\LoginController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-24T14:09:39+08:00 ]NOTICE: Undefined property: Home\Controller\LoginController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-24T14:09:39+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-24T14:11:42+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-24T14:15:49+08:00 ]NOTICE: Non-static method Hdphp\View\View::error() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\LoginController.php (16).
+[ 2016-08-24T14:16:17+08:00 ]NOTICE: Non-static method Hdphp\View\View::error() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\LoginController.php (16).
+[ 2016-08-24T14:19:05+08:00 ]EXCEPTION: Method Home\Controller\LoginController::login() does not exist
+[ 2016-08-24T14:21:48+08:00 ]EXCEPTION: Method Home\Controller\LoginController::login() does not exist
+[ 2016-08-24T15:24:06+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (44).
+[ 2016-08-24T15:24:06+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (49).
+[ 2016-08-24T15:24:06+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (51).
+[ 2016-08-24T15:24:06+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-24T15:24:06+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-24T15:24:06+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (39).
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (43).
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (53).
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (55).
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-24T15:39:30+08:00 ]NOTICE: Undefined property: Home\Controller\CateController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-24T15:39:30+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:00+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:07+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:10+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:11+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:13+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T15:42:15+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (102).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (160).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (160).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (160).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:00:40+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (168).
+[ 2016-08-24T16:01:57+08:00 ]NOTICE: array_fill(): Number of elements must be positiveD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (43).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:10:21+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (172).
+[ 2016-08-24T16:21:56+08:00 ]NOTICE: array_fill(): Number of elements must be positiveD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (42).
+[ 2016-08-24T16:23:03+08:00 ]NOTICE: array_fill(): Number of elements must be positiveD:\wamp\www\Project\3601\App\Home\Controller\CateController.php (43).
+[ 2016-08-24T16:40:41+08:00 ]EXCEPTION: SELECT  gid  FROM shop_goods_pp WHERE  gpvalue=?  ;BindParams:array (
+  0 => ' 金属',
+)42S22;1054;Unknown column 'gid' in 'field list'
+[ 2016-08-24T17:19:04+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\MemberController.php (25).
+[ 2016-08-24T17:19:04+08:00 ]NOTICE: Undefined property: Home\Controller\MemberController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-24T17:19:04+08:00 ]NOTICE: Undefined property: Home\Controller\MemberController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-24T17:19:04+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-24T19:21:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-24T19:22:25+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-24T19:23:49+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-24T20:03:31+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`pwd`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin888',
+  1 => 'd41d8cd98f00b204e9800998ecf8427e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:04:19+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`pwd`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin888',
+  1 => 'd41d8cd98f00b204e9800998ecf8427e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:07:27+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`pwd`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin888',
+  1 => 'd41d8cd98f00b204e9800998ecf8427e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:10:29+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`pwd`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin123',
+  1 => 'd41d8cd98f00b204e9800998ecf8427e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:11:00+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`pwd`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin666',
+  1 => 'd41d8cd98f00b204e9800998ecf8427e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:12:55+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`password`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin666',
+  1 => 'f379eaf3c831b04de153469d1bec345e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:13:25+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`password`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin666',
+  1 => 'f379eaf3c831b04de153469d1bec345e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:16:38+08:00 ]NOTICE: Undefined index: pwdD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1060).
+[ 2016-08-24T20:18:21+08:00 ]EXCEPTION: INSERT INTO shop_user (`username`,`password`)VALUES(?,?) ;BindParams:array (
+  0 => 'admin888',
+  1 => 'e10adc3949ba59abbe56e057f20f883e',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-24T20:21:54+08:00 ]NOTICE: Undefined index: pwdD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1060).
+[ 2016-08-24T20:22:16+08:00 ]NOTICE: Undefined index: pwdD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1060).
+[ 2016-08-24T20:22:44+08:00 ]NOTICE: Undefined index: pwdD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (1060).
+[ 2016-08-24T20:41:16+08:00 ]NOTICE: Non-static method Hdphp\View\View::success() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\MemberController.php (39).
+[ 2016-08-24T21:15:07+08:00 ]EXCEPTION: Home\Controller\LoginController 不存在
+[ 2016-08-24T21:31:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:31:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:31:09+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:31:10+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:31:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:31:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:32:14+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:32:18+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (16).
+[ 2016-08-24T21:33:30+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (16).
+[ 2016-08-24T21:33:32+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\7d5499ba9939f7ff97fbcd1becf47e8a.php (16).
+[ 2016-08-24T21:35:50+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (10).
+[ 2016-08-24T21:37:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:37:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:38:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:38:45+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:39:41+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:46:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:46:50+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:46:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (56).
+[ 2016-08-24T21:46:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).
+[ 2016-08-24T21:47:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\Project\3601\Storage\view\compile\7b90bf9d0d3583f17b102df6aa5979db.php (68).

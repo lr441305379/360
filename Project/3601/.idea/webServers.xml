@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7bf0b11-e616-498e-a763-c4d2099cf0e6" name="away" url="http://c69_yutao.houdunphp.com">
+        <fileTransfer host="c69_yutao.houdunphp.com" port="21" rootFolder="/wwwroot/3601" password="dfcbdfcedfc7dfc3dfc4df9cdf9cdf92" username="c69_yutao">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,169 @@
+body {
+  background: #FFFFFF;
+}
+#my_car {
+  width: 100%;
+  min-height: 720px;
+}
+#my_car .car {
+  width: 1240px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid #DDDDDD;
+  border-bottom: none;
+  line-height: 50px;
+}
+#my_car .car h3 {
+  color: #000;
+  padding: 0 20px;
+  font-weight: 400;
+  font-size: 18px;
+}
+#my_car .car_list {
+  width: 1240px;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid #DDDDDD;
+}
+#my_car .car_list .title {
+  width: 1208px;
+  height: 40px;
+  padding: 0 16px;
+  border: 1px;
+  background: #82C92F;
+}
+#my_car .car_list .title ul li {
+  width: 170px;
+  height: 40px;
+  float: left;
+  line-height: 40px;
+  color: #fff;
+}
+#my_car .car_list .title ul .lit {
+  width: 300px;
+}
+#my_car .list {
+  width: 1240px;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid #DDDDDD;
+  border-top: none;
+}
+#my_car .list ul {
+  height: 90px;
+}
+#my_car .list ul li {
+  width: 170px;
+  height: 60px;
+  padding: 15px 0;
+  line-height: 60px;
+  float: left;
+  font-size: 18px;
+}
+#my_car .list ul li span {
+  color: #000;
+  font-size: 18px;
+}
+#my_car .list ul li a {
+  color: #666666;
+  font-size: 12px;
+}
+#my_car .list ul li input {
+  width: 30px;
+  text-align: center;
+}
+#my_car .list ul li button {
+  width: 20px;
+  height: 20px;
+  background: #83CD36;
+  border: none;
+  margin: 0 10px;
+}
+#my_car .list ul .lit {
+  width: 300px;
+  line-height: 60px;
+}
+#my_car .list ul .lit .img {
+  width: 60px;
+  height: 60px;
+  float: left;
+  /*margin-left: 30px;*/
+  display: inline-block;
+}
+/*#my_car .list ul .lit img{*/
+  /*display: inline-block;*/
+  /*float:left;*/
+/*}*/
+#my_car .list ul .lit .img img {
+  width: 60px;
+  height: 60px;
+}
+#my_car .list ul .lit a {
+  display: inline-block;
+}
+#my_car .list ul .lit a:hover {
+  color: #749F59;
+}
+#my_car .list ul .xj {
+  color: red;
+}
+#my_car .list ul .xj span {
+  color: red;
+}
+#my_car .count {
+  width: 1240px;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid #DDDDDD;
+  border-top: none;
+}
+#my_car .count .money {
+  width: 1200px;
+  height: 47px;
+  padding: 30px 20px;
+  text-align: right;
+}
+#my_car .count .money p {
+  font-size: 18px;
+  color: #000;
+  font-weight: 700;
+  margin-right: 30px;
+}
+#my_car .count .money p span {
+  color: #FF8301;
+  font-size: 36px;
+  font-weight: 700;
+}
+#my_car .count .btn {
+  width: 1200px;
+  height: 47px;
+  text-align: right;
+}
+#my_car .count .btn .b1 {
+  background: #F6F6F6;
+  border: 1px #EFEFEF solid;
+  border-radius: 5px;
+  color: #6F6F6F;
+  display: inline-block;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+  margin-right: 12px;
+  text-align: center;
+  text-decoration: none;
+  width: 138px;
+}
+#my_car .count .btn .b2 {
+  background: #FF8301;
+  border: 1px #EFEFEF solid;
+  border-radius: 5px;
+  color: #FFF;
+  display: inline-block;
+  font-size: 18px;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  text-decoration: none;
+  width: 140px;
+}

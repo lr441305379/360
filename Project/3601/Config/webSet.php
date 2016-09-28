@@ -1,0 +1,18 @@
+<?php return array (
+  'CODE_LEN' => '2',
+  'CODE_COLOR' => '#14C2F0',
+  'CODE_WD' => '100',
+  'CODE_HT' => '56',
+  'CODE_FONTSIZE' => '22',
+  'CODE_FONT' => 'Public/7.ttf',
+  'CODE_BG' => '#E8E8E8',
+  'WEB_NAME' => '万玉涛的博客',
+  'COPY_INFO' => 'Copyright © 2010-2015 houdunwang.com All Rights Reserved',
+  'RECORD_NUMBER' => '京ICP备120668668号-6',
+  'ADMIN_EMAIL' => '441305379@qq.com',
+  'PAGE_CATE' => '6',
+  'PAGE_SHOP' => '12',
+  'PAGE_BRAND' => '15',
+  'PAGE_GOODS' => '5',
+  'PAGE_LINK' => '3',
+);

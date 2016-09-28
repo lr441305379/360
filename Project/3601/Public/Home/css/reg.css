@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #E5E5E5;
+}
+body #top {
+  width: 100%;
+  height: 50px;
+  background: #E5E5E5;
+  padding: 30px 0;
+}
+body #top .top_l {
+  width: 150px;
+  height: 50px;
+  margin: 0 auto;
+}
+body #login {
+  width: 980px;
+  height: 678px;
+  background: white;
+  margin: 0 auto;
+  overflow: hidden;
+}
+body #login .login {
+  width: 780px;
+  height: 628px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+body #login .login .login_l {
+  width: 370px;
+  height: 353px;
+  float: left;
+}
+body #login .login .login_r {
+  width: 320px;
+  height: 628px;
+  float: right;
+}
+body #login .login .login_r .login_rt {
+  width: 320px;
+  height: 21px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+body #login .login .login_r .login_rt .login_rtl {
+  float: left;
+  font-size: 14px;
+}
+body #login .login .login_r .login_rt .login_rtr {
+  float: right;
+}
+body #login .login .login_r .login_rt .login_rtr a {
+  font-size: 14px;
+  color: #22AC69;
+}
+body #login .login .login_r .login_rt1 {
+  width: 320px;
+  height: 40px;
+  border: 1px solid #ccc;
+  margin-bottom: 30px;
+}
+body #login .login .login_r .login_rt1 .login_rt1l {
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+  background: red;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+body #login .login .login_r .login_rt1 input {
+  width: 279px;padding-left: 5px;
+  height: 38px;
+  border: none;
+  outline: none;
+}
+body #login .login .login_r .login_rc {
+  width: 320px;
+  height: 30px;
+  line-height: 30px;
+}
+body #login .login .login_r .login_rc span {
+  color: #666;
+  font-size: 12px;
+}
+body #login .login .login_r .login_rc1 {
+  width: 320px;
+  height: 60px;
+}
+body #login .login .login_r .login_rc1 img {
+  width: 60px;
+  height: 60px;
+}
+body #login .login .login_r .login_rc1 a {
+  color: #f69;
+  font-size: 12px;
+}
+body #login .login .login_r .login_rc2 {
+  width: 320px;
+  height: 46px;
+  margin-top: 10px;
+}
+body #login .login .login_r .login_rc2 input {
+  width: 320px;
+  height: 46px;
+  font-size: 16px;
+  color: white;
+  background-color: #22AC69;
+  border: 2px solid #22AC69;
+}
+body #login .login .login_r .login_rc3 {
+  width: 320px;
+  height: 32px;
+  border-bottom: 1px dashed #ccc;
+}
+body #login .login .login_r .login_rc3 .login_rc3l {
+  width: 130px;
+  height: 30px;
+  line-height: 30px;
+}
+body #login .login .login_r .login_rc3 .login_rc3l span {
+  font-size: 12px;
+  color: #666;
+}

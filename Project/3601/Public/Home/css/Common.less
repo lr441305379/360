@@ -1,0 +1,263 @@
+//通用格式
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+/*兼容IE*/
+img input{
+  border:none;padding: 0;margin: 0;
+}
+//body背景色
+body{
+  background:#F5F5F5;
+}
+#bodyCon{
+  background: #FFFFFF;
+}
+
+
+//主页顶部区域
+#top{
+  background:#363636;
+  width:100%;
+  height:35px;
+  .top1{
+    width:1250px;
+    height:35px;
+    margin:0 auto;
+    background:#363636;
+
+
+    span{
+      margin:36px;
+
+
+
+      a{
+        color:#BFBFBF;
+        line-height: 35px;
+
+      }
+    }
+    p{
+      display: inline-block;
+      color:#BFBFBF;
+      margin-left:50px;
+
+    }
+  }
+
+
+}
+
+
+//搜索栏区域
+
+#search{
+  background:#FFFFFF;
+  width:100%;
+  height:118px;
+
+  //      中间区域
+  .search1{
+    background: #FFFFFF;
+    width:1240px;
+    height:118px;
+    margin:0 auto;
+
+    //               logo图片
+    .logo{
+      width:150px;
+      height:118px;
+      float:left;
+
+
+      img{
+        margin-top:39px;
+      }
+    }
+
+    //               右边搜索区域
+    .searchright{
+      width:740px;
+      height:76px;
+
+      float:right;
+      margin-top:30px;
+
+      .text{
+        width:464px;
+        height:42px;
+        border:1px solid #23AC38;
+        float:left;
+      }
+      .smt{
+        width:72px;
+        height:42px;
+        background: #23AC38 url(../images/img.png) no-repeat 24px -110px;
+        float:left;
+        cursor: pointer;
+
+      }
+
+
+      //                  购物车区域
+
+      .box{
+        width:158px;
+        height: 42px;
+        position:relative;
+        z-index: 2;
+        float:right;
+        &:hover .hidden{
+
+          display:block;
+          background:#FFFFFF;
+
+        }
+        &:hover .shopcar{
+
+          border-bottom:none;
+          color:#23ac38;
+          background:#FFFFFF url(../images/img.png) no-repeat 20px 13px;;
+        }
+
+        .shopcar{
+          width:158px;
+          height:42px;
+          border:1px solid #ddd;
+          //                           border-bottom:none;
+          background:#F9F9F9 url(../images/img.png) no-repeat 20px 13px;
+          position:relative;
+          z-index:2;
+          font-size:12px;
+          line-height:40px;
+          text-align:center;
+          color:#363636;
+        }
+
+        .hidden{
+
+          width:380px;
+          height:100px;
+          border:1px solid #ddd;
+          display:none;
+          position:absolute;
+          top:42px;
+          left:-222px;
+          font-size:16px;
+          line-height:160px;
+          text-align:center;
+          color:#363636;
+        }
+
+      }
+    }
+
+  }
+
+}
+
+
+
+//顶部导航条
+
+
+#nav{
+  width:100%;
+  height:37px;
+  border-bottom: 1px solid #363636;
+
+
+  //  中间导航区域
+
+  .mid{
+    width:1240px;
+    height:37px;
+    margin:0 auto;
+
+    //左边区域
+
+    .left{
+      width:210px;
+      height:37px;
+      background: #363636;
+      float:left;
+
+      a{
+        color:#FFFFFF;
+        text-align: center;
+        line-height: 37px;
+        margin-left: 18px;
+
+      }
+
+    }
+    //右边区域
+
+    .right{
+      width:1030px;
+      height:37px;
+      float:left;
+
+      li{
+        float:left;
+        color: #323334;
+        line-height: 37px;
+        margin:30px;
+        margin-top:0;
+        font-size: 15px;
+
+        &:hover a{
+          color:#41B753;
+        }
+        a{
+          color: #323334;
+          font-weight: 500;
+        }
+
+
+      }
+    }
+  }
+
+}
+
+
+
+//底部
+
+
+
+#footer{
+  width:100%;
+  height: 50px;
+  margin-top: 16px;
+  //border-top:3px solid #E8E8E8;
+  border-bottom: 3px solid #E8E8E8;
+
+  .ft{
+    width:1240px;
+    height:50px;
+    margin:0 auto;
+    margin-top: 10px;
+
+    p{
+      width:508px;
+      height:40px;
+      display: block;
+      color: #848484;
+      font-size: 12px;
+      text-align: center;
+      margin:0 auto;
+      margin-top: 10px;
+    }
+  }
+
+
+
+
+}
+//底部结束

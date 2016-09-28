@@ -1,0 +1,49 @@
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-08-30T14:11:20+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:11:20+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-08-30T14:11:20+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T14:12:02+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:12:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T14:12:02+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-08-30T14:12:02+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T15:34:52+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-30T15:34:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-30T15:34:52+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-30T15:34:52+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T15:35:08+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-30T15:35:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-30T15:35:08+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-30T15:35:08+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T15:35:15+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T15:35:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-30T15:35:15+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-08-30T15:35:15+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-30T17:17:02+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-30T17:17:16+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-30T17:17:41+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (10).
+[ 2016-08-30T17:19:36+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE username=admin LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'admin' in 'where clause'
+[ 2016-08-30T17:21:25+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (10).
+[ 2016-08-30T17:23:32+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (10).
+[ 2016-08-30T17:42:58+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (23).
+[ 2016-08-30T17:43:25+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (23).
+[ 2016-08-30T17:43:53+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (22).
+[ 2016-08-30T17:44:43+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (22).
+[ 2016-08-30T17:45:43+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (204).
+[ 2016-08-30T20:43:14+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-30T20:43:14+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-30T20:43:14+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-30T20:43:14+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1

@@ -1,0 +1,18 @@
+[ 2016-08-27T13:45:13+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (8).
+[ 2016-08-27T13:45:13+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-27T13:45:13+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-27T13:45:13+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-27T13:46:00+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Shopcar/../Public/Home/Common/footer.php
+[ 2016-08-27T13:52:05+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (10).
+[ 2016-08-27T13:52:05+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (11).
+[ 2016-08-27T13:52:05+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-27T13:52:05+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-27T13:52:05+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-27T17:03:21+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (15).
+[ 2016-08-27T17:03:21+08:00 ]NOTICE: Undefined variable: gnameD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-27T17:03:21+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (15).
+[ 2016-08-27T17:03:21+08:00 ]NOTICE: Undefined variable: gnameD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-27T17:59:01+08:00 ]NOTICE: Undefined offset: 4D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (161).
+[ 2016-08-27T17:59:09+08:00 ]NOTICE: Undefined offset: 4D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (161).
+[ 2016-08-27T17:59:12+08:00 ]NOTICE: Undefined offset: 4D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (161).
+[ 2016-08-27T17:59:25+08:00 ]NOTICE: Undefined offset: 4D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (161).

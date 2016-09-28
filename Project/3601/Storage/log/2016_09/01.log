@@ -1,0 +1,393 @@
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T12:48:55+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T12:48:55+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T12:48:55+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T13:08:42+08:00 ]NOTICE: Undefined index: didD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (25).
+[ 2016-09-01T13:22:06+08:00 ]NOTICE: Undefined variable: onumberD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (66).
+[ 2016-09-01T13:23:06+08:00 ]NOTICE: Undefined variable: onumberD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (66).
+[ 2016-09-01T13:24:37+08:00 ]NOTICE: Undefined variable: onumberD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (67).
+[ 2016-09-01T13:33:02+08:00 ]NOTICE: Undefined variable: onumberD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (65).
+[ 2016-09-01T13:39:45+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Pay/orderData.php
+[ 2016-09-01T13:40:08+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Pay/orderData.php
+[ 2016-09-01T13:40:29+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Pay/orderData.php
+[ 2016-09-01T13:40:57+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Pay/orderData.php
+[ 2016-09-01T13:41:37+08:00 ]NOTICE: Use of undefined constant ototal - assumed 'ototal'D:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (165).
+[ 2016-09-01T13:41:51+08:00 ]NOTICE: Use of undefined constant ototal - assumed 'ototal'D:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (165).
+[ 2016-09-01T15:33:54+08:00 ]EXCEPTION: Method Home\Controller\MemberController::like() does not exist
+[ 2016-09-01T16:45:34+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (191).
+[ 2016-09-01T16:46:12+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (191).
+[ 2016-09-01T16:46:21+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (191).
+[ 2016-09-01T16:46:50+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (191).
+[ 2016-09-01T16:47:43+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (190).
+[ 2016-09-01T16:47:49+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (190).
+[ 2016-09-01T16:47:56+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (190).
+[ 2016-09-01T16:50:16+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:51:58+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:52:14+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:52:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:52:40+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:57:46+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:58:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:59:00+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T16:59:37+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T17:00:52+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T17:01:27+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (188).
+[ 2016-09-01T17:01:27+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T17:01:47+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (156).
+[ 2016-09-01T17:01:47+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T17:02:12+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T17:02:28+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\Project\3601\Storage\view\compile\34a5e6466debac4342d8ab08729fb828.php (232).
+[ 2016-09-01T18:21:42+08:00 ]EXCEPTION: SELECT  olnumber  FROM shop_darling WHERE olorder=1 ;BindParams:array (
+)42S22;1054;Unknown column 'olnumber' in 'field list'
+[ 2016-09-01T18:51:41+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:51:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (8).
+[ 2016-09-01T18:51:41+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-09-01T18:51:41+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:51:42+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:51:42+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:51:43+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T18:51:43+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:51:56+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:51:56+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (8).
+[ 2016-09-01T18:51:56+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-09-01T18:51:56+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:51:57+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:51:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:51:57+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T18:51:57+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:52:03+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:52:03+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T18:52:03+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T18:52:03+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:53:13+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:53:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (8).
+[ 2016-09-01T18:53:13+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-09-01T18:53:13+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (31).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (32).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined variable: addressD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (288).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (306).
+[ 2016-09-01T18:54:43+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (307).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (35).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined variable: addressD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (288).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (306).
+[ 2016-09-01T18:55:14+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (307).
+[ 2016-09-01T18:55:55+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T18:55:55+08:00 ]NOTICE: Undefined variable: addressD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:55:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (184).
+[ 2016-09-01T18:55:55+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (306).
+[ 2016-09-01T18:55:55+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (307).
+[ 2016-09-01T19:01:06+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Member/orderData.php
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:26:56+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (207).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: onumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (208).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (209).
+[ 2016-09-01T20:37:53+08:00 ]NOTICE: Undefined index: otimeD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (210).
+[ 2016-09-01T20:51:54+08:00 ]NOTICE: Undefined variable: orderDataD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (204).
+[ 2016-09-01T20:51:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (204).
+[ 2016-09-01T20:57:04+08:00 ]NOTICE: Undefined variable: orderDataD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (204).
+[ 2016-09-01T20:57:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (204).
+[ 2016-09-01T21:06:24+08:00 ]NOTICE: Undefined index: fromD:\wamp\www\Project\3601\Hdphp\View\HdphpTag.php (134).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: gnameD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: olnumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: gnameD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: olnumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: gnameD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: olnumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: gnameD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: olnumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'glistimg'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'gname'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'pprice'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Illegal string offset 'olnumber'D:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (217).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: gnameD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (218).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:07:02+08:00 ]NOTICE: Undefined index: olnumberD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (220).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:12:36+08:00 ]NOTICE: Undefined index: ppriceD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (219).
+[ 2016-09-01T21:53:09+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\Project\3601\Hdphp\View\HdphpTag.php (154).
+[ 2016-09-01T21:59:06+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-09-01T21:59:06+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (8).
+[ 2016-09-01T21:59:06+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-09-01T21:59:06+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T21:59:23+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T21:59:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-09-01T21:59:23+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-09-01T21:59:23+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T23:11:52+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (250).
+[ 2016-09-01T23:11:52+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (250).
+[ 2016-09-01T23:22:17+08:00 ]EXCEPTION: Method Home\Controller\MemberController::() does not exist
+[ 2016-09-01T23:22:17+08:00 ]EXCEPTION: Method Home\Controller\MemberController::() does not exist
+[ 2016-09-01T23:22:17+08:00 ]EXCEPTION: Method Home\Controller\MemberController::() does not exist
+[ 2016-09-01T23:29:55+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=3 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:29:55+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=2 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:29:56+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=4 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:30:38+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=2 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:30:38+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=3 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:30:38+08:00 ]EXCEPTION: UPDATE shop_order SET `ozhuangtai`=?  WHERE oid=4 ;BindParams:array (
+  'ozhuangtai' => 4,
+)42S22;1054;Unknown column 'ozhuangtai' in 'field list'
+[ 2016-09-01T23:40:38+08:00 ]NOTICE: Undefined variable: ofD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (184).
+[ 2016-09-01T23:42:16+08:00 ]NOTICE: Undefined variable: ofD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (184).
+[ 2016-09-01T23:44:01+08:00 ]NOTICE: Undefined variable: ofD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (184).
+[ 2016-09-01T23:44:46+08:00 ]NOTICE: Undefined variable: ofD:\wamp\www\Project\3601\Storage\view\compile\cbc54936b71ac8eba4eff7c31073184b.php (184).
+[ 2016-09-01T23:45:30+08:00 ]NOTICE: Undefined variable: ofD:\wamp\www\Project\3601\App\Home\Controller\MemberController.php (76).

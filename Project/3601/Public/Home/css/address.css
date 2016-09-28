@@ -1,0 +1,200 @@
+#personal-center {
+  width: 100%;
+  height: 100%;
+  background: #F2F2F2;
+  margin-top: 30px;
+}
+#personal-center .personal-all {
+  height: 100%;
+  width: 1240px;
+  margin: 0 auto;
+}
+#personal-center .personal-all .personal-all-left {
+  height: 100%;
+  width: 157px;
+  float: left;
+}
+#personal-center .personal-all .personal-all-left ul {
+  background: white;
+}
+#personal-center .personal-all .personal-all-left ul li {
+  width: 155px;
+  height: 43px;
+}
+#personal-center .personal-all .personal-all-left ul li a {
+  line-height: 43px;
+  color: #333333;
+  margin-left: 30px;
+  text-align: center;
+}
+#personal-center .personal-all .personal-all-left ul li span {
+  color: #CCCCCC;
+  font-size: 15px;
+  margin-left: 40px;
+}
+#personal-center .personal-all .personal-all-left ul li i {
+  display: block;
+  float: left;
+  height: 43pxpx;
+  width: 28px;
+}
+#personal-center .personal-all .personal-all-left li:nth-child(1) {
+  width: 157px;
+  background: #82C92F;
+  text-align: center;
+  position: relative;
+}
+#personal-center .personal-all .personal-all-left li:nth-child(1) p {
+  height: 5px;
+  width: 5px;
+  background: white;
+  position: absolute;
+  border-radius: 50%;
+  left: 30px;
+  top: 20px;
+}
+#personal-center .personal-all .personal-all-left li:nth-child(1) a {
+  color: white;
+  margin-left: -20px;
+}
+#personal-center .personal-all .personal-all-left li:nth-child(1) i {
+  display: block;
+  float: left;
+  height: 0px;
+  width: 0px;
+  border-top: 21px solid #7ABD2C;
+  border-right: 14px solid #82C92F;
+  border-bottom: 22px solid #7ABD2C;
+  border-left: 14px solid #7ABD2C;
+}
+#personal-center .personal-all #content {
+  width: 1043px;
+  height: 100%;
+  float: right;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: 5px solid #82C92F;
+}
+#personal-center .personal-all #content p {
+  font-size: 15px;
+  display: block;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+#personal-center .personal-all #content .mall_modw {
+  margin: 0 auto 28px;
+  padding: 0 30px;
+}
+#personal-center .personal-all #content .mall_modw .hd {
+  border-bottom: 1px #E5E5E5 solid;
+  clear: both;
+  height: 18px;
+  line-height: 18px;
+  padding: 16px 10px;
+}
+#personal-center .personal-all #content .mall_modw .hd h3 {
+  color: #000;
+  float: left;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "microsoft yahei";
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address {
+  width: 1003px;
+  height: 536px;
+  margin: 0 auto;
+  margin-left: -10px;
+  background: #F2F2F2;
+  display: none;
+  box-shadow: 0 0 2px black;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .add-row .consignee-add-label {
+  display: block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .add-row .consignee-add-label b {
+  color: #ff7300;
+  float: left;
+  margin: 3px 6px 0 -10px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .add-row input {
+  margin-left: 20px;
+  font-size: 14px;
+  padding: 0 5px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .add-row textarea {
+  width: 468px;
+  height: 88px;
+  margin-left: 20px;
+  font-size: 14px;
+  padding: 8px 5px;
+  resize: none;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .add-row select {
+  margin-left: 20px;
+  font-size: 14px;
+  padding: 0 5px;
+  height: 30px;
+  background: white;
+  color: black;
+  margin-bottom: 10px;
+  border-radius: 2px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .sub a {
+  border-radius: 4px;
+  color: #fff;
+  display: inline-block;
+  height: 29px;
+  line-height: 28px;
+  min-width: 56px;
+  padding: 0 15px;
+  margin: 20px;
+  margin-right: 5px;
+  text-align: center;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .sub .save {
+  background: #82C92F;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .address .sub .cancle {
+  background: #a4a9ae;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr {
+  width: 1140px;
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr .sec_adrlast {
+  display: none;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr ul li {
+  height: 40px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr ul .input-radio {
+  cursor: pointer;
+  float: left;
+  height: 20px;
+  width: 26px;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr ul label {
+  cursor: pointer;
+  display: block;
+  width: 650px;
+  word-break: break-all;
+  word-wrap: break-word;
+  float: left;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .sec_adr ul #edit_adr {
+  width: 59px;
+  height: 40px;
+  float: right;
+  cursor: pointer;
+}
+#personal-center .personal-all #content .mall_modw .bd .init .add {
+  background: url(https://p.ssl.qhmsg.com/t017fcf10d91a926736.png) no-repeat 0 -510px;
+  display: block;
+  height: 35px;
+  width: 140px;
+}

@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+/*兼容IE*/
+img input {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #F5F5F5;
+}
+#bodyCon {
+  background: #FFFFFF;
+}
+#top {
+  background: #363636;
+  width: 100%;
+  height: 35px;
+}
+#top .top1 {
+  width: 1250px;
+  height: 35px;
+  margin: 0 auto;
+  background: #363636;
+}
+#top .top1 span {
+  margin: 36px;
+}
+#top .top1 span a {
+  color: #BFBFBF;
+  line-height: 35px;
+}
+#top .top1 p {
+  display: inline-block;
+  color: #BFBFBF;
+  margin-left: 50px;
+}
+#search {
+  background: #FFFFFF;
+  width: 100%;
+  height: 118px;
+}
+#search .search1 {
+  background: #FFFFFF;
+  width: 1240px;
+  height: 118px;
+  margin: 0 auto;
+}
+#search .search1 .logo {
+  width: 150px;
+  height: 118px;
+  float: left;
+}
+#search .search1 .logo img {
+  margin-top: 39px;
+}
+#search .search1 .searchright {
+  width: 740px;
+  height: 76px;
+  float: right;
+  margin-top: 30px;
+}
+#search .search1 .searchright .text {
+  width: 464px;
+  height: 42px;
+  border: 1px solid #23AC38;
+  float: left;
+}
+#search .search1 .searchright .smt {
+  width: 72px;
+  height: 42px;
+  background: #23AC38 url(../images/img.png) no-repeat 24px -110px;
+  float: left;
+  cursor: pointer;
+}
+#search .search1 .searchright .box {
+  width: 158px;
+  height: 42px;
+  position: relative;
+  z-index: 2;
+  float: right;
+}
+#search .search1 .searchright .box:hover .hidden {
+  display: block;
+  background: #FFFFFF;
+}
+#search .search1 .searchright .box:hover .shopcar {
+  border-bottom: none;
+  color: #23ac38;
+  background: #FFFFFF url(../images/img.png) no-repeat 20px 13px;
+}
+#search .search1 .searchright .box .shopcar {
+  width: 158px;
+  height: 42px;
+  border: 1px solid #ddd;
+  background: #F9F9F9 url(../images/img.png) no-repeat 20px 13px;
+  position: relative;
+  z-index: 2;
+  font-size: 12px;
+  line-height: 40px;
+  text-align: center;
+  color: #363636;
+}
+#search .search1 .searchright .box .hidden {
+  width: 380px;
+  min-height: 100px;
+  border: 1px solid #ddd;
+  display: none;
+  /*display: block;*/
+  position: absolute;
+  top: 42px;
+  left: -222px;
+  font-size: 16px;
+  /*line-height: 160px;*/
+  text-align: center;
+  color: #363636;
+}
+#search .search1 .searchright .box .hidden .top{
+  width:380px;
+ height: 60px;
+  background: #FFFFFF;
+
+}
+#search .search1 .searchright .box .hidden .bottom{
+  width:380px;
+  height: 60px;
+  background:#F6F6F6;
+
+}
+#search .search1 .searchright .box .hidden img{
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  float: left;
+}
+
+#search .search1 .searchright .box .hidden .top span{
+  display: inline-block;
+  float: left;
+  width: 159px;
+  height: 30px;
+  line-height: 30px;
+
+}
+#search .search1 .searchright .box .hidden .top b{
+   line-height: 60px;
+
+ }
+#search .search1 .searchright .box .hidden .bottom span{
+  float:left;
+  width: 100px;
+  line-height: 59px;
+
+}
+#search .search1 .searchright .box .hidden .bottom a{
+  width: 130px;
+  height: 45px;
+  background: #30AB38;
+  margin-top: 5px;
+  display: inline-block;
+  border-radius:15px;
+  line-height: 45px;
+  cursor: pointer;
+}
+#search .search1 .searchright .box .hidden .bottom button:hover{
+  background: #23862A;
+}
+
+
+#nav {
+  width: 100%;
+  height: 37px;
+  border-bottom: 1px solid #363636;
+}
+#nav .mid {
+  width: 1240px;
+  height: 37px;
+  margin: 0 auto;
+}
+#nav .mid .left {
+  width: 210px;
+  height: 37px;
+  background: #363636;
+  float: left;
+}
+#nav .mid .left a {
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 37px;
+  margin-left: 18px;
+}
+#nav .mid .right {
+  width: 1030px;
+  height: 37px;
+  float: left;
+}
+#nav .mid .right li {
+  float: left;
+  color: #323334;
+  line-height: 37px;
+  cursor: pointer;
+  margin: 30px;
+  margin-top: 0;
+  font-size: 15px;
+}
+#nav .mid .right li:hover a {
+  color: #41B753;
+}
+#nav .mid .right li a {
+  color: #323334;
+  font-weight: 500;
+}
+#footer {
+  width: 100%;
+  height: 50px;
+  margin-top: 16px;
+  border-bottom: 3px solid #E8E8E8;
+}
+#footer .ft {
+  width: 1240px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+#footer .ft p {
+  width: 508px;
+  height: 40px;
+  display: block;
+  color: #848484;
+  font-size: 12px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.super{
+  width: 100%;
+  height: 100%;
+}
+.super img{
+  width: 100%;
+}

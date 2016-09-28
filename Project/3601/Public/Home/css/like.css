@@ -1,0 +1,118 @@
+#member {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+#member .box {
+  width: 1240px;
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+}
+#member .box .left {
+  width: 150px;
+  background: #FFFFFF;
+  height: 800px;
+  float: left;
+}
+#member .box .left h3 {
+  line-height: 30px;
+  text-align: center;
+  background: #82C92F;
+  color: white;
+}
+#member .box .left h3:hover {
+  background: #23AC38;
+}
+#member .box .left ul {
+  margin-top: 20px;
+}
+#member .box .left ul li {
+  width: 148px;
+  height: 40px;
+  background: #FFFFFF;
+  text-align: center;
+  color: #333;
+  display: block;
+  line-height: 40px;
+}
+#member .box .left ul li:hover {
+  background: #F8F8FA;
+  border-left: 2px solid #82C92F ;
+}
+#member .box .right .hd2 {
+  background: #ffffff;
+  width: 1060px;
+  height: 100%;
+  float: left;
+  margin-left: 16px;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+}
+#member .box .right .hd2 button {
+  width: 60px;
+  height: 40px;
+  background: #82C92F;
+  color: white;
+}
+#member .box .right .hd2 button:hover {
+  background: #23AC38;
+}
+#member .box .right .hd2 .myLike {
+  width: 1060px;
+  height: 50px;
+}
+#member .box .right .hd2 .myLike span {
+  color: #82C92F;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 60px;
+  padding-left: 40px;
+}
+#member .box .right .hd2 .bottom {
+  width: 1060px;
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-bottom: 360px;
+}
+#member .box .right .hd2 .bottom .img {
+  width: 200px;
+  height: 265px;
+  border-bottom: 1px solid #DDDDDD;
+  margin-bottom: 36px;
+}
+#member .box .right .hd2 .bottom .img p {
+  text-align: center;
+}
+#member .box .right .hd2 .bottom .img:hover .hd3 {
+  display: block;
+}
+#member .box .right .hd2 .bottom .img img {
+  width: 120px;
+  height: 145px;
+  margin-left: 35px;
+}
+#member .box .right .hd2 .bottom .img .hd3 {
+  display: none;
+}
+#member .box .right .hd2 .bottom .img .hd3 a {
+  display: inline-block;
+  border: #DDDDDD 1px solid;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+}
+#member .box .right .hd2 .bottom .img .hd3 .qx:hover {
+  background: #A7A7A7;
+  color: white;
+}
+#member .box .right .hd2 .bottom .img .hd3 .join:hover {
+  background: #FB7923;
+  color: white;
+}

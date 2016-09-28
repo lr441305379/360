@@ -1,0 +1,394 @@
+//大盒子
+
+#bigBox{
+  width: 100%;
+  height: 100%;
+  background: #FFFFFF ;
+}
+
+//中间盒子
+
+#conShow{
+  width:1190px;
+  height:600px;
+  background: #FFFFFF;
+  //background: red;
+  margin: 0 auto;
+  padding-left:50px;
+  padding-top:30px;
+
+  //左边图片区域
+
+
+  .left{
+    width:480px;
+    height:570px;
+    padding-right:70px;
+    //background: green;
+    float:left;
+
+
+    //大图
+   .imgB{
+      width:480px;
+      height:480px;
+      border: 1px solid #DDDDDD;
+
+    }
+    //小图
+    .imgS{
+      width:64px;
+      height:64px;
+
+
+
+    }
+
+    //小图排版
+    .bottom{
+      display: -webkit-flex;
+      display: flex;
+      justify-content: space-between;
+
+    }
+
+  }
+  //右边购买盒子
+
+  .right{
+    width:590px;
+    height:570px;
+    //background: yellow;
+    float:left;
+
+     //标题
+     .title{
+
+       width: 590px;
+       height:100px;
+       display: -webkit-flex;
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;//水平居中
+       align-items: center;//垂直居中
+
+       p{
+         color: #0E0E0E;
+         display: block;
+         font-size: 28px;
+         font-weight: 400;
+         overflow: hidden;
+         width: 600px;
+       }
+
+
+
+      }
+
+    //描述
+
+    .des{
+      width: 590px;
+      height: 30px;
+      display: -webkit-flex;
+      display: flex;
+      justify-content: flex-start;//顶端对齐
+      span{
+        color: #666;
+        font-size: 14px;
+
+      }
+
+    }
+    //价格
+
+    .price{
+      width:590px;
+      height:80px;
+      background: #F8F8F8;
+
+      span{
+        color: #FA5437;
+        font-size: 36px;
+        font-style: normal;
+        line-height: 80px;
+      }
+
+    }
+    //分类
+    .cate{
+      width: 590px;
+      height: 80px;
+      //background: saddlebrown;
+      display: -webkit-flex;
+      display: flex;
+      justify-content:flex-start;
+      flex-wrap: wrap;
+      align-items: center;
+
+      span{
+        color: #848484;
+        font-size: 20px;
+
+      }
+
+      li{
+        float:left;
+        a{
+          border: 1px #DDD solid;
+          color: #0E0E0E;
+          //padding: 3px 3px;
+          margin-right:15px;
+
+          &:hover{
+            border: 1px #FA5437 solid;
+            color: #FA5437;
+          }
+
+        }
+      }
+
+    }
+    // 数量
+    .num{
+      width: 590px;
+      height: 60px;
+
+      span{
+        color: #848484;
+        float: left;
+        font-size: 20px;
+        line-height: 45px;
+
+      }
+      //加减大盒子
+      .numBox{
+        width: 105px;
+        height: 35px;
+        display: -webkit-flex;
+        display: flex;
+        justify-content: space-between;
+        //减盒子
+        .cut{
+          width: 33px;
+          height: 35px;
+          border: 1px solid #CCCCCC;
+          text-align: center;
+          b{
+            font-size: 36px;
+
+          }
+        }
+
+        //总数盒子
+        .text_box{
+          float: left;
+          border: 1px solid #CCCCCC;
+          width: 50px;
+          height: 30px;
+          text-align: center;
+
+
+        }
+
+        //加盒子
+
+        .add{
+          width: 33px;
+          height: 35px;
+          border: 1px solid #CCCCCC;
+          //display: -webkit-flex;
+          //display: flex;
+          //align-items: center;
+          text-align: center;
+
+          b{
+            font-size: 36px;
+          }
+
+        }
+
+      }
+    }
+    //买和收藏
+
+    .buy{
+      width: 590px;
+      height: 90px;
+      display:-webkit-flex;
+      display: flex;
+      justify-content: space-between;
+      align-content: center;
+      //float: left;
+
+
+      //加入购物车
+
+      .joinCar{
+        display: block;
+        width: 240px;
+        height: 50px;
+        background: red;
+        //background: red url(../images/red.png) no-repeat 50px 20px;
+
+        &:hover {
+          filter:alpha(opacity=50);
+          -moz-opacity:0.5;
+          -khtml-opacity: 0.5;
+          opacity: 0.5;
+        }
+
+        .car{
+          width: 80px;
+          height: 20px;
+          display: inline-block;
+          margin-top: 20px;
+          background: url(../images/red.png) no-repeat 45px 5px;
+
+        }
+        span{
+          display: inline-block;
+          //margin-bottom: 30px;
+          line-height: 35px;
+          color: #FFF;
+          font-size: 16px;
+          text-align: center;
+
+        }
+
+
+
+      }
+
+      //喜欢
+      .like{
+        width: 150px;
+        height: 53px;
+        display: inline-block;
+        background: #ADADAD;
+        line-height: 50px;
+
+        &:hover{
+          //background: red;
+          filter:alpha(opacity=50);
+          -moz-opacity:0.5;
+          -khtml-opacity: 0.5;
+          opacity: 0.5;
+        }
+
+        &:hover .hot{
+
+          background: url(../images/red.png) no-repeat 30px -40px;
+        ;
+
+        }
+
+        .hot{
+          width: 100px;
+          height: 20px;
+          display: inline-block;
+          //margin-top: 0px;
+          background: url(../images/red.png) no-repeat 30px -18px;
+
+          // 0  - 40
+
+        }
+        span{
+          float: left;
+          font-size: 16px;
+          height: 3px;
+          text-align: center;
+          width: 150px;
+
+        }
+
+      }
+
+
+
+    }
+    //保障
+    .sure{
+      width: 590px;
+      height: 130px;
+      background:  url(../images/sure.png  ) no-repeat 0 0;
+
+    }
+
+
+  }
+}
+
+
+
+//图片部分开始
+#tab_bar{
+
+  width: 100%;height: 60px;margin-bottom:15px;
+  border-top:1px solid #E6E9ED;
+  border-bottom:1px solid #E6E9ED;
+  background: #FFFFFF;
+  .tab{
+    width:1240px;height:60px;margin:0 auto;
+    line-height: 60px;font-size: 18px;color: #31373C;
+    a{
+      padding:0 10px;color: #6EC177;
+    }
+  }
+}
+#pic{
+  width:100%;
+  .full_pic{
+    p{
+      background: no-repeat center top;
+      margin: 0;
+      padding: 0;
+      width: auto;
+    }
+  }
+}
+#ggcs{
+  width:100%;height:50px;
+  .ggcs{
+    width:1240px;height:50px;margin:20px auto;
+    line-height:50px;font-size:20px;border-bottom: 1px solid #E6E9ED;
+  }
+}
+
+#ggmx{
+  width:100%;
+  .gCon{
+    width:1000px;margin:0 auto;
+    .gArg{
+      margin-top:20px;
+      border: 1px solid #CCC;
+      font-size: 16px;
+      height: 40px;
+      line-height: 40px;
+      text-align: left;
+      text-indent: 15px;
+    }
+    .col2 {
+      border-left: 1px #CCC solid;
+      border-bottom: 0;
+      margin-top: -1px;
+      width: 100%;
+      font-size:16px;
+    }
+    td{
+      text-align:center;
+      height:40px;line-height:40px;
+      border-right: 1px #CCC solid;
+      border-bottom: 1px #CCC solid;
+    }
+    td.wd207 {
+      color: #333;
+      text-align: center !important;
+      text-indent: 0;
+      width: 207px;
+    }
+  }
+}
+#trouble{
+  width:1000px;margin:2px auto;
+}

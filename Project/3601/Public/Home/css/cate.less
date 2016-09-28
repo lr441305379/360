@@ -1,0 +1,129 @@
+//分类样式
+#cate{
+      width:100%;
+      //height:100%;
+      //background: red;
+      margin: 0 auto;
+
+  //顶部筛选盒子
+
+   .list{
+    width: 1240px;
+    min-height: 100px;//品牌盒子宽度变动
+    margin: 0 auto;
+     background: #FFFFFF;
+
+     //位置显示盒子(首页->全部搜索结果->全部)
+
+    .top{
+      width:1240px;
+      height:47px;
+      border-bottom:1px  #E8E8E8 solid;
+      position: relative;
+      background: #FFFFFF;
+      //background: blue;
+
+      a{
+        color: #848484;
+        font-size: 14px;
+        line-height: 48px;
+        font-weight: 600;
+        &:hover{
+          color:#41B753;
+        }
+
+      }
+
+      span{
+        color: #0e0e0e;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 48px;
+      }
+
+
+
+  }
+     //分类显示
+     .bottom{
+       width: 1240px;
+       min-height: 100px;
+       //background: green;
+       span{
+         color: #31373c;
+         display: inline-block;
+         //height: 48px;
+         line-height: 50px;
+         //width: 60px;
+       }
+
+       //分类盒子
+
+       .cate{
+         width:1240px;
+         height:50px;
+         display: -webkit-flex;
+         display: flex;
+         justify-content: space-between;//两端对齐
+         line-height: 50px;
+
+         a{
+           color: #848484;
+           font-weight: 400;
+           &:hover{
+             color:#41B753;
+
+           }
+         }
+
+       }
+
+       }
+  }
+
+
+}
+
+//分类筛选结束
+
+//点击样式
+
+.click{
+  height: 100px;
+  overflow: auto;
+}
+
+
+
+
+//显示图片区域
+
+#show_data{
+  width:100%;height:100%;margin: 0 auto;
+  .show{
+    width:1240px;height:1246px;margin:0 auto;
+    .list{
+      margin-top: 20px;width:1240px;display: flex;
+      // align-content: space-between;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      .li_item{
+        width:240px;height:300px;float:left;
+        background:#fff;overflow:hidden;
+        border-bottom:10px solid #F5F5F5;
+        .img{
+          width:180px;height:180px;padding:30px;
+        }
+        .des{
+          width:240px;height:48px;text-align: center;
+          .p2{
+            color:red;
+          }
+        }
+      }
+    }
+  }
+}
+.hover{
+  background: #22CB22;
+}

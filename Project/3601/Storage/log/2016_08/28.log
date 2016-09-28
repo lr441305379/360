@@ -1,0 +1,116 @@
+[ 2016-08-28T14:04:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Hdphp\Cart\Cart.php (132).
+[ 2016-08-28T14:04:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Hdphp\Cart\Cart.php (147).
+[ 2016-08-28T14:04:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Hdphp\Cart\Cart.php (132).
+[ 2016-08-28T14:04:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Hdphp\Cart\Cart.php (147).
+[ 2016-08-28T14:40:31+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (14).
+[ 2016-08-28T14:40:31+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (15).
+[ 2016-08-28T14:40:31+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T14:40:31+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T14:40:31+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T14:40:31+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T14:43:30+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (7).
+[ 2016-08-28T14:43:30+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (8).
+[ 2016-08-28T14:44:48+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (7).
+[ 2016-08-28T14:44:48+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (8).
+[ 2016-08-28T14:54:58+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (10).
+[ 2016-08-28T14:54:58+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T14:54:58+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T14:54:58+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T14:54:58+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T14:54:58+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T14:58:41+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (7).
+[ 2016-08-28T14:58:41+08:00 ]NOTICE: Undefined variable: shopcarD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (13).
+[ 2016-08-28T14:59:19+08:00 ]NOTICE: Undefined variable: shopcarD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (13).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (11).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (12).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (20).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (21).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T15:11:10+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T15:11:10+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T15:45:48+08:00 ]NOTICE: Undefined index: tpnameD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (25).
+[ 2016-08-28T15:45:48+08:00 ]NOTICE: Undefined index: tpnameD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (25).
+[ 2016-08-28T15:45:48+08:00 ]NOTICE: Undefined index: tpnameD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (25).
+[ 2016-08-28T15:52:36+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (20).
+[ 2016-08-28T15:52:36+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (21).
+[ 2016-08-28T15:52:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (21).
+[ 2016-08-28T16:30:58+08:00 ]NOTICE: Undefined offset: 4D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (161).
+[ 2016-08-28T17:11:15+08:00 ]NOTICE: Undefined index: idD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (11).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (12).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (23).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (32).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (33).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T17:15:36+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T17:15:36+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T17:15:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (152).
+[ 2016-08-28T17:16:10+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (152).
+[ 2016-08-28T17:16:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (152).
+[ 2016-08-28T17:19:32+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (518).
+[ 2016-08-28T17:20:35+08:00 ]NOTICE: Use of undefined constant gid - assumed 'gid'D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (518).
+[ 2016-08-28T17:20:52+08:00 ]NOTICE: Use of undefined constant gid - assumed 'gid'D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (518).
+[ 2016-08-28T17:21:26+08:00 ]NOTICE: Use of undefined constant gid - assumed 'gid'D:\wamp\www\Project\3601\Storage\view\compile\2285f5ecd290c2ae060f2c24a56dc0d2.php (518).
+[ 2016-08-28T17:29:04+08:00 ]NOTICE: Undefined index: idD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T17:29:10+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T17:30:18+08:00 ]NOTICE: Undefined index: idD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (18).
+[ 2016-08-28T17:30:47+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (22).
+[ 2016-08-28T17:31:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (18).
+[ 2016-08-28T17:31:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (18).
+[ 2016-08-28T17:33:17+08:00 ]NOTICE: Undefined variable: shopcarD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T17:33:17+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (28).
+[ 2016-08-28T17:36:06+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T17:36:12+08:00 ]NOTICE: Undefined index: idD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (16).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (11).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (12).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (21).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (25).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (26).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T17:37:45+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T17:37:45+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T17:37:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (152).
+[ 2016-08-28T17:38:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (152).
+[ 2016-08-28T17:41:35+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (159).
+[ 2016-08-28T17:41:35+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (159).
+[ 2016-08-28T17:41:35+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (159).
+[ 2016-08-28T17:41:35+08:00 ]NOTICE: Undefined index: glistimgD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (159).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (11).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (12).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (28).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (29).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::with() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (32).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Non-static method Hdphp\View\View::make() should not be called statically, assuming $this from incompatible contextD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (33).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (38).
+[ 2016-08-28T19:37:11+08:00 ]NOTICE: Undefined property: Home\Controller\ShopcarController::$tplD:\wamp\www\Project\3601\Hdphp\View\View.php (56).
+[ 2016-08-28T19:37:11+08:00 ]EXCEPTION: 模板不存在
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T19:37:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (170).
+[ 2016-08-28T21:55:48+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (258).
+[ 2016-08-28T21:55:48+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (258).
+[ 2016-08-28T21:55:48+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (258).
+[ 2016-08-28T21:55:48+08:00 ]NOTICE: Undefined variable: goodsDataD:\wamp\www\Project\3601\Storage\view\compile\459b201598d60087cc467905528112f5.php (258).
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (23).
+[ 2016-08-28T22:00:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Undefined variable: goodsD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (17).
+[ 2016-08-28T22:00:35+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\ShopcarController.php (23).
+[ 2016-08-28T22:00:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1

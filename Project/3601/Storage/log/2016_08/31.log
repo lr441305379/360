@@ -1,0 +1,111 @@
+[ 2016-08-31T15:29:32+08:00 ]NOTICE: Use of undefined constant Pay - assumed 'Pay'D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (366).
+[ 2016-08-31T15:29:32+08:00 ]NOTICE: Use of undefined constant index - assumed 'index'D:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (366).
+[ 2016-08-31T15:29:32+08:00 ]NOTICE: Division by zeroD:\wamp\www\Project\3601\Storage\view\compile\f2dfa7c40bde159643163b219b6c2cdd.php (366).
+[ 2016-08-31T18:02:41+08:00 ]NOTICE: Undefined index: idD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (25).
+[ 2016-08-31T19:30:35+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-31T19:30:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-31T19:30:35+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-31T19:30:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:33:37+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-31T19:33:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-31T19:33:37+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-31T19:33:37+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:33+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:33+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:33+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:33+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:50+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:50+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:51+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:51+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:51+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:51+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:51+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:51+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:52+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:52+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:52+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:52+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:52+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:52+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:47:52+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:47:52+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:48:00+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:48:00+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:48:01+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:48:01+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:48:01+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:48:01+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:48:01+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:48:01+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:48:01+08:00 ]NOTICE: Undefined index: inD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (34).
+[ 2016-08-31T19:48:01+08:00 ]EXCEPTION: SELECT  *  FROM shop_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:51:25+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-31T19:51:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-31T19:51:25+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-31T19:51:25+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T19:51:32+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (6).
+[ 2016-08-31T19:51:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\Project\3601\App\Home\Controller\PayController.php (7).
+[ 2016-08-31T19:51:32+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\Project\3601\App\Home\Controller\PayController.php (13).
+[ 2016-08-31T19:51:32+08:00 ]EXCEPTION: SELECT  *  FROM shop_goods WHERE gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T21:31:54+08:00 ]EXCEPTION: INSERT INTO shop_order (`otime`,`onumber`,`ototal`,`ozhuangt`,`oaddress`,`address`)VALUES(?,?,?,?,?,?) ;BindParams:array (
+  0 => 1472650314,
+  1 => 'F0831503149882497',
+  2 => 2641,
+  3 => 2,
+  4 => '',
+  5 => '
+                                的风格V,河南省信阳市撒旦,415541,45541                            ',
+)42S22;1054;Unknown column 'address' in 'field list'
+[ 2016-08-31T21:52:21+08:00 ]NOTICE: Array to string conversionD:\wamp\www\Project\3601\Hdphp\Db\Mysql.php (204).
+[ 2016-08-31T22:13:00+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group in 120,115,113 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group in 120,115,113 LIMIT 1' at line 1
+[ 2016-08-31T22:13:26+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group in (119,116,113) LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group in (119,116,113) LIMIT 1' at line 1
+[ 2016-08-31T22:14:29+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group=119,116,113 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group=119,116,113 LIMIT 1' at line 1
+[ 2016-08-31T22:15:14+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group='119,115,113' LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group='119,115,113' LIMIT 1' at line 1
+[ 2016-08-31T22:16:44+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group IN (120,116,113) LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group IN (120,116,113) LIMIT 1' at line 1
+[ 2016-08-31T22:23:37+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group IN (119,116,113) ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group IN (119,116,113)' at line 1
+[ 2016-08-31T22:25:49+08:00 ]EXCEPTION: SELECT  *  FROM shop_darling WHERE group IN (120,116,113) ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group IN (120,116,113)' at line 1
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:15+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
+[ 2016-08-31T22:26:54+08:00 ]NOTICE: Undefined index: groupD:\wamp\www\Project\3601\App\Home\Controller\ContentController.php (91).
